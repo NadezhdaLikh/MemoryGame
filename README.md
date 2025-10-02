@@ -7,12 +7,12 @@ The goal is to find all the matching pairs of cards on the game board.
 At the start of the game, all cards are shown face-up, and the player must try to remember their positions. Then the cards are flipped face-down, and the challenge begins: flip two at a time and try to find pairs.
 
 The game includes:
-+ Choice of the number of cards (from 1 to 10).
++ Choice of the number of cards (from **1** to **10**).
 + Two difficulty levels:
   + **easy** – cards are labeled with _numbers_.
   + **hard** – cards display _names of geometric shapes_.
 + **Penalty points** for every mismatched pair.
-+ A main menu with an "Instructions" button (instructions are in English).
++ A main menu with an **"Instructions"** button (instructions are in English).
 
 ## Technologies used
 + **Java** – core programming language.
